@@ -1,1 +1,23 @@
 theme: jekyll-theme-cayman
+
+timezone: Australia/Sydney
+author: "Rory Murdock"
+google_analytics: UA-153144159-1
+title: Rory Blogs
+description: 'Writings about dealing with problems at scale'
+url: 'https://rorymurdock.github.io'
+
+logo: /assets/img/logo.png
+image: /assets/img/logo.png
+
+show_downloads: false
+
+# cayman-blog date format
+cayman-blog:
+  date_format: "%d %b %Y"
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
