@@ -97,6 +97,6 @@ There are a few ways to report coverage, as bove you can do term-missing which j
 | html         | Viewable HTML report, this is the easiest to view standalone |
 | xml annotate | Can be interpreted by a IDE plugin or a pipeline            |
 
-You can use plugins like [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters) to show in VSCode or Cloud services such as [Coveralls](https://coveralls.io) but those will be covered in [Pipelines post]({% post_url 2019-11-24-Introduction-to-Pipelines %})
+You can use plugins like [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters) to show in VSCode or Cloud services such as [Coveralls](https://coveralls.io) but those will be covered in the Pipelines post
 
 So we know all our code is covered by tests, but is it maintainable? Check out my next post on [Maintainability]({% post_url 2019-11-24-Code-Maintainability %})
