@@ -5,11 +5,11 @@ author: "Rory Murdock"
 tags: Python DevOps
 ---
 
-This continues on from my post on [Automatic Code Testing]({% post_url 2019-11-22-Automatic-Code-Testing %})
-
 So we've covered how to test our code but how do we know that we have tested all of our code? Coverage, by using black magic coverage is able to evalate which parts of your code were excecuted and which parts were not.
 
 ## Prerequisites
+
+This continues on from my post on [Automatic Code Testing]({% post_url 2019-11-22-Automatic-Code-Testing %})
 
 You'll need to install `pytest-cov` to follow along via `python3 -m pip install pytest-cov`
 
