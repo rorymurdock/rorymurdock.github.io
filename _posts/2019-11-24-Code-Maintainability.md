@@ -5,7 +5,7 @@ author: "Rory Murdock"
 tags: Python DevOps
 ---
 
-[PEP8](https://www.python.org/dev/peps/pep-0008/) is the official Python style guide which rules on how to format your code for consistency. For example the first (and often hot topic) is tabs vs. spaces, PEP8 dictates that 4 spaces must be used and not tabs.
+[PEP8](https://www.python.org/dev/peps/pep-0008/) is the offical Python style guide which rules on how to format your code for consistency. For example the first (and often hot topic) is tabs vs. spaces, PEP8 dictates that 4 spaces must be used and not tabs.
 
 Another example is `imports`
 
@@ -13,7 +13,7 @@ Another example is `imports`
 
 `import sys`
 
-is recommended over
+is recommeneded over
 
 `import sys, os`
 
@@ -32,17 +32,17 @@ It'd be a lot of work to manually reference all of the rules against your code, 
  ```python
  def return_string():
     """Returns a string"""
-    return "abc"
+    return "abc" 
 
 def return_int():
     """Returns a integer"""
-    return 123
+    return 123 
 
 def return_bool():
     """Returns a boolean"""
     return True
 
-def return_dict():
+def return_dict(): 
     dictionary = {}
     dictionary["testing"] = 1234
 
@@ -50,9 +50,9 @@ def return_dict():
 
 def return_list():
     """Returns a list"""
-    shoppinglist = ["apple", "banana", "cherry"]
+    shoppinglist = ["apple", "banana", "cherry"] 
     return shopping
-
+ 
 ```
 
  `python3 -m pylint unlinted_functions.py`
@@ -80,7 +80,7 @@ The output is file name, line, column, PEP number, PEP description.
 
 So the file unlinted_function.py has a trailing whitespace on line 3 column 16.
 
-There's a few issues - trailing whitespaces, a couple of missing docstrings, and a variable issue.
+There's a few issues - trailing whitespaces, a couple of missing docstrings, and a varible issue.
 
 Let's fix those up.
 
@@ -129,7 +129,7 @@ Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 
 Great our code is nicely formatted according to PEP8
 
-## Code Quality
+## Code Quailty
 
 Take the below snippet
 
@@ -176,7 +176,7 @@ def code():
 Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 ```
 
-Great so far we've tested our code, checked it for maintainability and formatting, but how can we automate these checks? My next post on [Pipelines]({% post_url 2020-07-19-Pipelines %})
+Great so far we've tested our code, checked it for maintainability and formatting, but how can we automate these checks? The next post will cover an introduction to pipelines.
 
 ## Resources
 

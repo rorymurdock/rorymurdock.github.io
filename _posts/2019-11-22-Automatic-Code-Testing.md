@@ -7,7 +7,7 @@ tags: Python DevOps
 
 When I first started writing code I'd write my code, run it, and that'd be my testing. Over time as my programs became more complex and had more dependencies I started running into issues where testing became quite time consuming and hard to comprehensively test every case.
 
-Enter testing frameworks, there's a few types such as unit testing, mock testing, and fuzz testing. For this we're going to focus on unit testing. There's a few different frameworks you can use for this, some common examples include PyTest, UnitTest, DocTest. Let's focus on PyTest for this post as it's what I've used most.
+Enter testing frameworks, there's a few types such a unit testing, mock testing, and fuzz testing. For this we're going to focus on unit testing. There's a few different frameworks you can use for this, some common examples include PyTest, UnitTest, DocTest. Let's focus on PyTest for this post as it's what I've used most.
 
 ## Prerequisite
 
@@ -17,7 +17,7 @@ You'll need to install `pytest` to follow along via `python3 -m pip install pyte
 
 The basic premise is that you execute the function and specify the expected output.
 
-For example let's take this function
+For example lets take this function
 
 `function.py`
 
@@ -38,7 +38,7 @@ def test_return_string():
     assert isinstance(return_string(), str) is True
 ```
 
-There's a few things to go over.
+There's a few few things to go over.
 
 * You'll need to import the class or functions you are testing.
 
@@ -219,7 +219,7 @@ That code is much better, now let's test it
 
 Amazing, The tests have passed, and furthermore all of the other functions that used `check_http_response()` also have tests so we know they'll all work too. So we've changed our code and can confidently deploy it knowing that the external behaviour is unchanged.
 
-But how do we know that all of the code has been tested? Check out my next post on [Code Coverage]({% post_url 2019-11-23-Code-Coverage %})
+But how do we know that we all of the code tested? Check out my next post on [Code Coverage]({% post_url 2019-11-23-Code-Coverage %})
 
 ## Resources
 
