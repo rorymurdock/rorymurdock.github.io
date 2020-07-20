@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Home Lab Setup"
+title:  "Pipelines"
 author: "Rory Murdock"
 tags: Lab
 ---
