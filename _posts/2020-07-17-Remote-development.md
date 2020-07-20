@@ -4,6 +4,9 @@ title:  "Remote Development"
 author: "Rory Murdock"
 tags: DevOps Development
 ---
+
+How to create a better development environment with VS Code
+
 # Remote Development
 
 If you're like me then you install a bunch of python packages and you might have python 2.7 and 3.8 both installed and then maybe Ruby or Powershell or any number of other languages. It's hard to keep everything in sync and to make sure you remember to put all the packages your package needs in the requirements.txt because half of them are already installed on your machine. What's the answer? A virtual machine for each project seems tedious and annoying, uninstalling all your dependencies before you start a new project? It's simple, containers.

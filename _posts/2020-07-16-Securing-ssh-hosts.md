@@ -4,6 +4,9 @@ title:  "Securing SSH hosts"
 author: "Rory Murdock"
 tags: Security DevOps SSH
 ---
+
+How to secure your SSH server
+
 ## Securing SSH hosts
 
 If you have a server that you want to access via SSH then you should definitely secure it, the internet is full of malicious attackers that will scan for SSH running on port 22 and try to bruteforce in, [Torrey Betts ran an ssh honey pot](https://www.infragistics.com/community/blogs/b/torrey-betts/posts/what-i-learned-after-using-an-ssh-honeypot-for-7-days) that gives an example of just how many attacks you could get in just 7 days. You can setup your own if you want [here](https://blog.ruanbekker.com/blog/2018/10/11/capturing-54-million-passwords-with-a-docker-ssh-honeypot/).
