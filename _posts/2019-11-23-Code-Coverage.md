@@ -5,7 +5,7 @@ author: "Rory Murdock"
 tags: Python DevOps
 ---
 
-So we've covered how to test our code but how do we know that we have tested all of our code? Coverage, by using black magic coverage is able to evalate which parts of your code were excecuted and which parts were not.
+So we've covered how to test our code but how do we know that we have tested all of our code? Coverage, by using black magic coverage is able to evaluate which parts of your code were executed and which parts were not.
 
 ## Prerequisites
 
@@ -89,7 +89,7 @@ So `functions.py` only has 85% coverage, lines 22-23 are missing.
 
 ## Reporting
 
-There are a few ways to report coverage, as bove you can do term-missing which just prints it to the terminal which is ok for small omissions but can get tricky when you have missed a large number of lines.
+There are a few ways to report coverage, as above you can do term-missing which just prints it to the terminal which is ok for small omissions but can get tricky when you have missed a large number of lines.
 
 | Output       | Description                                                  |
 |--------------|--------------------------------------------------------------|
