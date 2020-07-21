@@ -178,5 +178,5 @@ Amazing! We're in and it's secure. You can set Duo to automatically send a push 
 
 Further reading:
 
-Public key authenification still has it's problems, arguably with 2FA you're better protected but here's a piece on certificate based authentication by CloudFlare
+Public key authentication still has it's problems, arguably with 2FA you're better protected but here's a piece on certificate based authentication by CloudFlare
 [https://blog.cloudflare.com/public-keys-are-not-enough-for-ssh-security/](https://blog.cloudflare.com/public-keys-are-not-enough-for-ssh-security/)
