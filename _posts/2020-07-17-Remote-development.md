@@ -13,7 +13,7 @@ If you're like me then you install a bunch of python packages and you might have
 
 VS Code has a few options that you can use for remote development.
 
-[https://code.visualstudio.com/docs/remote/remote-overview]
+[https://code.visualstudio.com/docs/remote/remote-overview]([https://code.visualstudio.com/docs/remote/remote-overview])
 
 There's three different options that we'll look at here:
 
