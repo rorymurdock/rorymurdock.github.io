@@ -24,7 +24,7 @@ There's three different options that we'll look at here:
 ## Remote via SSH
 First let's look at Remote via SSH
 
-For this demo I've setup a VM on my laptop but you could have a compute instance in the cloud or on your [Home Lab]({{ site.url }}/2020-07-20-Home-lab-setup) just make sure you [secure it]({{ site.url }}/2020-07-16-Securing-ssh-hosts)
+For this demo I've setup a VM on my laptop but you could have a compute instance in the cloud or on your [Home Lab]({% post_url 2020-07-20-Home-lab-setup %}) just make sure you [secure it]({% post_url 2020-07-16-Securing-ssh-hosts %})
 
 Google's Cloud Platform offers a lifetime free [F1-micro](https://cloud.google.com/free/docs/gcp-free-tier) instance that you could use if you wanted an always on remote host, although it would be [fairly resource limited](https://www.opsdash.com/blog/google-cloud-f1-micro.html).
 
