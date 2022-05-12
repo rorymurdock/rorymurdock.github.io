@@ -126,6 +126,6 @@ When executing the program this drops you in the session at the trace point and 
 
 ![Screenshot]({{ site.url }}/assets/img/python-tracing-debugging/tracing.png)
 
-Here I've checked what `i` looks like, the `type` of `files`, changed `files` to a `list` and then tried the next line to see if that works now. Super easy, and great for testing functions in `Pytest`
+Here I've checked what `i` looks like, the `type` of `files`, changed `files` to a `list` and then tried the next line to see if that works now. Super easy, and great for testing functions in `Pytest` using `import pytest pytest.set_trace()`
 
 This can work well when there's a bug you just can't figure out, drop into the execution and go line by line.
