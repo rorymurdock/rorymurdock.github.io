@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python tracing"
+title:  "Python Debugging and Tracing"
 author: "Rory Murdock"
 tags: Python DevOps Pytest
 ---
