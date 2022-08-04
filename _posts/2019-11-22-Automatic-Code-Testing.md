@@ -5,6 +5,12 @@ author: "Rory Murdock"
 tags: Python DevOps
 ---
 
+Check your code for bugs the hardest easiest way possible
+
+# Automatic testing using PyTest
+
+<p align="center"><img src="https://media.giphy.com/media/11i77XHsbqUcZa/giphy.gif"></p>
+
 When I first started writing code I'd write my code, run it, and that'd be my testing. Over time as my programs became more complex and had more dependencies I started running into issues where testing became quite time consuming and hard to comprehensively test every case.
 
 Enter testing frameworks, there's a few types such as unit testing, mock testing, and fuzz testing. For this we're going to focus on unit testing. There's a few different frameworks you can use for this, some common examples include PyTest, UnitTest, DocTest. Let's focus on PyTest for this post as it's what I've used most.
@@ -224,3 +230,5 @@ But how do we know that all of the code has been tested? Check out my next post 
 ## Resources
 
 [All code used](https://gist.github.com/rorymurdock/f8c1ace6e35684261823530e19510478)
+
+<p align="center"><img src="https://media.giphy.com/media/xUA7b8VnHVOMeTawFO/giphy.gif"></p>

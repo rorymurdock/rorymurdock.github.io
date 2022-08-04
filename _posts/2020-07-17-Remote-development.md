@@ -9,6 +9,8 @@ How to create a better development environment with VS Code
 
 # Remote Development
 
+<p align="center"><img src="https://media.giphy.com/media/42H5VlV7tLmlokaiFm/giphy.gif"></p>
+
 If you're like me then you install a bunch of python packages and you might have python 2.7 and 3.8 both installed and then maybe Ruby or Powershell or any number of other languages. It's hard to keep everything in sync and to make sure you remember to put all the packages your package needs in the requirements.txt because half of them are already installed on your machine. What's the answer? A virtual machine for each project seems tedious and annoying, uninstalling all your dependencies before you start a new project? It's simple, containers.
 
 VS Code has a few options that you can use for remote development.
@@ -22,6 +24,7 @@ There's three different options that we'll look at here:
 3. Visual Studio Codespaces
 
 ## Remote via SSH
+
 First let's look at Remote via SSH
 
 For this demo I've setup a VM on my laptop but you could have a compute instance in the cloud or on your [Home Lab]({% post_url 2020-07-20-Home-lab-setup %}) just make sure you [secure it]({% post_url 2020-07-16-Securing-ssh-hosts %})
@@ -37,7 +40,6 @@ Then the install the [Remote - SSH](vscode:extension/ms-vscode-remote.remote-ssh
 ![Screenshot]({{ site.url }}/assets/img/Remote-Development/connect_ssh_1.png)
 
 ![Screenshot]({{ site.url }}/assets/img/Remote-Development/connect_ssh_2.png)
-
 
 Once connected make your Git folder, and install `git`, clone a repo. From there it's the same as using VS Code locally. In the bottom left corner the Orange label shows which environment you're working in.
 
@@ -99,5 +101,6 @@ There is also a self hosted VS Codespace option that will let you use your own m
 
 ![Screenshot]({{ site.url }}/assets/img/Remote-Development/codespace_browser_debug.png)
 
-https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/
+<https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/>
 
+<p align="center"><img src="https://media.giphy.com/media/Rhf0uSWt1P2TFqVMZK/giphy.gif"></p>

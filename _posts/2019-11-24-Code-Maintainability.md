@@ -5,6 +5,12 @@ author: "Rory Murdock"
 tags: Python DevOps
 ---
 
+How to write better more supportable code
+
+# Code Maintainability
+
+<p align="center"><img src="https://media.giphy.com/media/3o85xmd7ipXSj1n3Nu/giphy.gif"></p>
+
 [PEP8](https://www.python.org/dev/peps/pep-0008/) is the official Python style guide which rules on how to format your code for consistency. For example the first (and often hot topic) is tabs vs. spaces, PEP8 dictates that 4 spaces must be used and not tabs.
 
 Another example is `imports`
@@ -181,3 +187,5 @@ Great so far we've tested our code, checked it for maintainability and formattin
 ## Resources
 
 [All code used](https://gist.github.com/rorymurdock/b1c23880553477100d5bcc8fd0e69f7b)
+
+<p align="center"><img src="https://media.giphy.com/media/11QEuO6MtKCl6E/giphy.gif"></p>
