@@ -5,6 +5,14 @@ author: "Rory Murdock"
 tags: Python DevOps
 ---
 
+Making sure your tests are effective
+
+# Code Coverage
+
+Nobody likes writing unit tests, yet here we are...
+
+<p align="center"><img src="https://media.giphy.com/media/3o7bu5kN3xCjquOG6k/giphy.gif"></p>
+
 So we've covered how to test our code but how do we know that we have tested all of our code? Coverage, by using black magic coverage is able to evaluate which parts of your code were executed and which parts were not.
 
 ## Prerequisites
@@ -100,3 +108,7 @@ There are a few ways to report coverage, as above you can do term-missing which 
 You can use plugins like [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters) to show in VSCode or Cloud services such as [Coveralls](https://coveralls.io) but those will be covered in the Pipelines post
 
 So we know all our code is covered by tests, but is it maintainable? Check out my next post on [Maintainability]({% post_url 2019-11-24-Code-Maintainability %})
+
+Meanwhile let this all sink in
+
+<p align="center"><img src="https://media.giphy.com/media/xTiTnvrRpyGmHowuoo/giphy.gif"></p>

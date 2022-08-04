@@ -5,6 +5,8 @@ author: "Rory Murdock"
 tags: Python DevOps Pytest
 ---
 
+Easier debugging using VSCode and pdb
+
 # Python Debugging and Tracing
 
 ## Debugging
@@ -13,11 +15,13 @@ I'm honestly surprised it's taken me this long to actually get around to writing
 
 In my early days I did what everyone who doesn't know does. I'd just write a lot of `print()` statements to surface variable values and I'd exit scripts early to review before slowly moving the exit statement further down.
 
+<p align="center"><img src="https://media.giphy.com/media/GQ9InpECkHgJO/giphy.gif"></p>
+
 ![Screenshot]({{ site.url }}/assets/img/python-tracing-debugging/old_way.png)
 
 When you start to get bigger and more complex code this becomes kinda crazy and unmaintainable.
 
-Let's talk about debugging, specifically I will be using the Python debugger in VS Code. They have [their own guide](https://code.visualstudio.com/docs/python/debugging) that's also worth reading. 
+Let's talk about debugging, specifically I will be using the Python debugger in VS Code. They have [their own guide](https://code.visualstudio.com/docs/python/debugging) that's also worth reading.
 
 First there's a few things you should know.
 
@@ -129,3 +133,7 @@ When executing the program this drops you in the session at the trace point and 
 Here I've checked what `i` looks like, the `type` of `files`, changed `files` to a `list` and then tried the next line to see if that works now. Super easy, and great for testing functions in `Pytest` using `import pytest pytest.set_trace()`
 
 This can work well when there's a bug you just can't figure out, drop into the execution and go line by line.
+
+Yeah, I know, cool right?
+
+<p align="center"><img src="https://media.giphy.com/media/26xBTdcjLzWUYuynm/giphy.gif"></p>

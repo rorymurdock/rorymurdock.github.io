@@ -13,6 +13,8 @@ I've covered PyTest before in [Automatic testing using PyTest]({% post_url 2019-
 
 ## What is mocking?
 
+<p align="center"><img src="https://media.giphy.com/media/WsNbxuFkLi3IuGI9NU/giphy.gif"></p>
+
 Basically instead of calling the real function or object you create a fake (mocked) object that you can safely manipulate and set various attributes.
 
 ## Mocking a function
@@ -217,3 +219,7 @@ Let's run our new patched test
 Boom, finished in `0.06s` that's way better, and no actual HTTP calls were made.
 
 So that's a basic introduction to Mocking, when doing this debugging your tests can save you countless hours, I'd recommend a review of my guide on [Python tracing & debugging]({% post_url 2022-05-12-Python-Tracing-Debugging %}) to help. Particularly `pdb.set_trace` as you can then run through your tests and see what your mocked objects are returning.
+
+I guess that's all, bye
+
+<p align="center"><img src="https://media.giphy.com/media/MfTW6bkRhvFzbAZO1p/giphy.gif"></p>

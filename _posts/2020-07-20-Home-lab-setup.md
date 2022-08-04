@@ -11,6 +11,8 @@ How I've setup my Home Lab
 
 After not having a proper lab for years I decided to splurge out and get one so I can do some learning and reduce my collection of old mac minis and headless laptops.
 
+<p align="center"><img src="https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif"></p>
+
 There were a few requirements
 
 * Had to be on premise
@@ -22,10 +24,10 @@ There were a few requirements
 
  A micro PC was the best way to go there's a few good options out there such as
 
- * Intel NUC 9 Extreme
- * Intel NUC 10 i7
- * HP Z2 Mini G4
- * Mac Mini
+* Intel NUC 9 Extreme
+* Intel NUC 10 i7
+* HP Z2 Mini G4
+* Mac Mini
 
 In the end I chose the NUC10 i7 with 64GB or RAM and a 2TB SSD as it was the best performance for the price, small, and very low power consumption.
 
@@ -87,3 +89,5 @@ Some of the things I'm running on my homelab are
 * [Windows Codespace](https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/self-hosting-vscode)
 * [Ubuntu Codespace](https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/self-hosting-vscode)
 * [Veeam](https://www.veeam.com/blog/backup-replication-community-edition-features-description.html)
+
+<p align="center"><img src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif"></p>
