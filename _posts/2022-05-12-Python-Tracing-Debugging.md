@@ -15,7 +15,7 @@ I'm honestly surprised it's taken me this long to actually get around to writing
 
 In my early days I did what everyone who doesn't know does. I'd just write a lot of `print()` statements to surface variable values and I'd exit scripts early to review before slowly moving the exit statement further down.
 
-<p align="center"><img src="https://media.giphy.com/media/GQ9InpECkHgJO/giphy.gif"></p>
+![gif](https://media.giphy.com/media/GQ9InpECkHgJO/giphy.gif)
 
 ![Screenshot]({{ site.url }}/assets/img/python-tracing-debugging/old_way.png)
 
@@ -136,4 +136,4 @@ This can work well when there's a bug you just can't figure out, drop into the e
 
 Yeah, I know, cool right?
 
-<p align="center"><img src="https://media.giphy.com/media/26xBTdcjLzWUYuynm/giphy.gif"></p>
+![gif](https://media.giphy.com/media/26xBTdcjLzWUYuynm/giphy.gif)

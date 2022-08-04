@@ -9,7 +9,7 @@ Check your code for bugs the hardest easiest way possible
 
 # Automatic testing using PyTest
 
-<p align="center"><img src="https://media.giphy.com/media/11i77XHsbqUcZa/giphy.gif"></p>
+![gif](https://media.giphy.com/media/11i77XHsbqUcZa/giphy.gif)
 
 When I first started writing code I'd write my code, run it, and that'd be my testing. Over time as my programs became more complex and had more dependencies I started running into issues where testing became quite time consuming and hard to comprehensively test every case.
 
@@ -231,4 +231,4 @@ But how do we know that all of the code has been tested? Check out my next post 
 
 [All code used](https://gist.github.com/rorymurdock/f8c1ace6e35684261823530e19510478)
 
-<p align="center"><img src="https://media.giphy.com/media/xUA7b8VnHVOMeTawFO/giphy.gif"></p>
+![gif](https://media.giphy.com/media/xUA7b8VnHVOMeTawFO/giphy.gif)

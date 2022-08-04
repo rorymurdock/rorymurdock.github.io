@@ -11,7 +11,7 @@ Making sure your tests are effective
 
 Nobody likes writing unit tests, yet here we are...
 
-<p align="center"><img src="https://media.giphy.com/media/3o7bu5kN3xCjquOG6k/giphy.gif"></p>
+![gif](https://media.giphy.com/media/3o7bu5kN3xCjquOG6k/giphy.gif)
 
 So we've covered how to test our code but how do we know that we have tested all of our code? Coverage, by using black magic coverage is able to evaluate which parts of your code were executed and which parts were not.
 
@@ -111,4 +111,4 @@ So we know all our code is covered by tests, but is it maintainable? Check out m
 
 Meanwhile let this all sink in
 
-<p align="center"><img src="https://media.giphy.com/media/xTiTnvrRpyGmHowuoo/giphy.gif"></p>
+![gif](https://media.giphy.com/media/xTiTnvrRpyGmHowuoo/giphy.gif)

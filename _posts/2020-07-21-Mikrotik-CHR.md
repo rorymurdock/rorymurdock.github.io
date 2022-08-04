@@ -11,7 +11,7 @@ Run a virtual Mikrotik with CHR
 
 [Mikrotik](https://mikrotik.com/) is a latvian router company that have created a great networking product that is solid, cheap, and reliable. I have used them for many years and they are absolutely solid.
 
-<p align="center"><img src="https://media.giphy.com/media/xT5LMwo1RCG2qv0H0A/giphy.gif"></p>
+![gif](https://media.giphy.com/media/xT5LMwo1RCG2qv0H0A/giphy.gif)
 
 They offer a product called [Cloud Hosted Router](https://wiki.mikrotik.com/wiki/Manual:CHR) (CHR) which is a virtualised copy of the RouterOS which supports up to 10GB routing and all of the normal features. I am lucky enough to have a CHR-P1 licence from my training but they're very [affordable](https://wiki.mikrotik.com/wiki/Manual:CHR#Paid_licenses). However there are plenty of other options out there
 
@@ -159,4 +159,4 @@ add
 add
 ```
 
-<p align="center"><img src="https://media.giphy.com/media/jbKbdoKJOFusHTjl80/giphy.gif"></p>
+![gif](https://media.giphy.com/media/jbKbdoKJOFusHTjl80/giphy.gif)
