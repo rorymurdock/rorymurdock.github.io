@@ -9,7 +9,7 @@ How to secure your SSH server
 
 ## Securing SSH hosts
 
-<p align="center"><img src="https://media.giphy.com/media/UWsZzJTs5KBgg4K8FE/giphy.gif"></p>
+![gif](https://media.giphy.com/media/UWsZzJTs5KBgg4K8FE/giphy.gif)
 
 If you have a server that you want to access via SSH then you should definitely secure it, the internet is full of malicious attackers that will scan for SSH running on port 22 and try to bruteforce in, [Torrey Betts ran an ssh honey pot](https://www.infragistics.com/community/blogs/b/torrey-betts/posts/what-i-learned-after-using-an-ssh-honeypot-for-7-days) that gives an example of just how many attacks you could get in just 7 days. You can setup your own if you want [here](https://blog.ruanbekker.com/blog/2018/10/11/capturing-54-million-passwords-with-a-docker-ssh-honeypot/).
 
@@ -182,4 +182,4 @@ Further reading:
 Public key authentication still has it's problems, arguably with 2FA you're better protected but here's a piece on certificate based authentication by CloudFlare
 [https://blog.cloudflare.com/public-keys-are-not-enough-for-ssh-security/](https://blog.cloudflare.com/public-keys-are-not-enough-for-ssh-security/)
 
-<p align="center"><img src="https://media.giphy.com/media/9r8DZBBfzACgxkBRh7/giphy.gif"></p>
+![gif](https://media.giphy.com/media/9r8DZBBfzACgxkBRh7/giphy.gif)

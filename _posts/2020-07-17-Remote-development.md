@@ -9,7 +9,7 @@ How to create a better development environment with VS Code
 
 # Remote Development
 
-<p align="center"><img src="https://media.giphy.com/media/42H5VlV7tLmlokaiFm/giphy.gif"></p>
+![gif](https://media.giphy.com/media/42H5VlV7tLmlokaiFm/giphy.gif)
 
 If you're like me then you install a bunch of python packages and you might have python 2.7 and 3.8 both installed and then maybe Ruby or Powershell or any number of other languages. It's hard to keep everything in sync and to make sure you remember to put all the packages your package needs in the requirements.txt because half of them are already installed on your machine. What's the answer? A virtual machine for each project seems tedious and annoying, uninstalling all your dependencies before you start a new project? It's simple, containers.
 
@@ -103,4 +103,4 @@ There is also a self hosted VS Codespace option that will let you use your own m
 
 <https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/>
 
-<p align="center"><img src="https://media.giphy.com/media/Rhf0uSWt1P2TFqVMZK/giphy.gif"></p>
+![gif](https://media.giphy.com/media/Rhf0uSWt1P2TFqVMZK/giphy.gif)

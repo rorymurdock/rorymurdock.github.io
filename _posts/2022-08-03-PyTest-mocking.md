@@ -13,7 +13,7 @@ I've covered PyTest before in [Automatic testing using PyTest]({% post_url 2019-
 
 ## What is mocking?
 
-<p align="center"><img src="https://media.giphy.com/media/WsNbxuFkLi3IuGI9NU/giphy.gif"></p>
+![gif](https://media.giphy.com/media/WsNbxuFkLi3IuGI9NU/giphy.gif)
 
 Basically instead of calling the real function or object you create a fake (mocked) object that you can safely manipulate and set various attributes.
 
@@ -222,4 +222,4 @@ So that's a basic introduction to Mocking, when doing this debugging your tests 
 
 I guess that's all, bye
 
-<p align="center"><img src="https://media.giphy.com/media/MfTW6bkRhvFzbAZO1p/giphy.gif"></p>
+![gif](https://media.giphy.com/media/MfTW6bkRhvFzbAZO1p/giphy.gif)

@@ -9,7 +9,7 @@ Automating development with CI/CD
 
 # Pipelines
 
-<p align="center"><img src="https://media.giphy.com/media/DHM45OU8VEKDVivmQ8/giphy.gif"></p>
+![gif](https://media.giphy.com/media/DHM45OU8VEKDVivmQ8/giphy.gif)
 
 This post was adapted from [my presentation](https://docs.google.com/presentation/d/1kD-DYPOJkp_EWeozYjWs5yTSsF7w6AbjIzmN-gT9u5Y/edit?usp=sharing) on Pipelines for MacAdmins
 
@@ -164,4 +164,4 @@ Once all of the jobs have completed, and passed you'll be able to complete the m
 
 and that's it, with continuous testing whenever you commit code it will be automatically tested and coverage checked. You can tie into other services such as Codeclimate for further testing.
 
-<p align="center"><img src="https://media.giphy.com/media/tn3kTJo4P4y1G/giphy.gif"></p>
+![gif](https://media.giphy.com/media/tn3kTJo4P4y1G/giphy.gif)

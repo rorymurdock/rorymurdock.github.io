@@ -11,7 +11,7 @@ How I've setup my Home Lab
 
 After not having a proper lab for years I decided to splurge out and get one so I can do some learning and reduce my collection of old mac minis and headless laptops.
 
-<p align="center"><img src="https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif"></p>
+![gif](https://media.giphy.com/media/S9i8jJxTvAKVHVMvvW/giphy.gif)
 
 There were a few requirements
 
@@ -90,4 +90,4 @@ Some of the things I'm running on my homelab are
 * [Ubuntu Codespace](https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/self-hosting-vscode)
 * [Veeam](https://www.veeam.com/blog/backup-replication-community-edition-features-description.html)
 
-<p align="center"><img src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif"></p>
+![gif](https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif)
