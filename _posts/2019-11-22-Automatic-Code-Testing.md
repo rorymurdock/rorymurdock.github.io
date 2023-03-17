@@ -25,7 +25,7 @@ The basic premise is that you execute the function and specify the expected outp
 
 For example let's take this function
 
-`function.py`
+`functions.py`
 
 ```python
 def return_string():
@@ -62,7 +62,7 @@ Let's run it and see what we get.
 
 Nice! Our function is returning a `str` that's what we want, let's build a few more functions and some tests.
 
-`function.py`
+`functions.py`
 
 ```python
 def return_string():
